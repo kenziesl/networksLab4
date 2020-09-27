@@ -1,0 +1,69 @@
+.App {
+    text-align: center;
+    
+  }
+  
+  .App-logo {
+    height: 40vmin;
+  }
+  
+  .App-header {
+    background-color: rgb(96, 98, 151);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #123029;
+  }
+  
+  .boot-card {
+    height: auto;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5rem;
+    margin-bottom: 5em;
+  }
+  
+  #cancel-btn {
+    float: right;
+  }
+  .my-modal {
+    z-index: 1000;
+    opacity: .5, !important;
+  }
+  
+  .card-title {
+    display: block;
+  }
+  
+  .card-title p {
+    display: block;
+  }
+  
+  .rideHistory {
+    margin-right: 5em;
+    margin-left: 5em;
+  }
+  
+  .showHistory,
+  .showAll {
+    margin-top: 2em;
+    margin-left: 30em;
+    margin-right: 30em;
+  }
+  
+  img {
+    border-radius:2em;
+  }
+  
+  .card {
+    border-radius: 10em;
+  }
+
+  
